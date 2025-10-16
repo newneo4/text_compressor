@@ -44,7 +44,7 @@ source .venv/bin/activate   # Linux / Mac
 # o en Windows:
 # .venv\Scripts\activate
 ```
-### Crear entorno virtual (opcional)
+### Correr el programa
 ```bash
 python main.py
 ```
